@@ -14,6 +14,7 @@ The data is gathered from: http://www.kemik.yildiz.edu.tr/?id=28.
 
 * example run on terminal : python3 second_part.py training test
 * example run on terminal : python3 second_part2.py training test
+* example run on terminal : python3 extra_feature.py training test
 
 
 # CMPE-561
