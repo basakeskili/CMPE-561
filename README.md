@@ -7,7 +7,8 @@ This is a project assigned for class of Natural Language Processing - Spring'15
 The code uses Multinomial Naive Bayes Algorithm to classify given text document among 69 authors.
 
 The data is gathered from: http://www.kemik.yildiz.edu.tr/?id=28.
-Go to tugceeskili/CMPE-561/Assignment 1
+
+#### Go to tugceeskili/CMPE-561/Assignment 1
 
 ## How to run the code
 
