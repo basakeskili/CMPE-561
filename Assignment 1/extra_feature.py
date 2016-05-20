@@ -1,4 +1,3 @@
-from nltk.tokenize import RegexpTokenizer
 import os
 import re
 import random
