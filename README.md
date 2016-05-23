@@ -32,6 +32,6 @@ sskk
 
 
         python3 train_hmm_tagger.py turkish_metu_sabanci_train.conll cpost
-        python3 hmm_tagger.py turkish_metu_sabanci_train.conll output.txt
-        python3 evaluate_hmm_tagger.py output2.txt turkish_metu_sabanci_train.conll
+        python3 hmm_tagger.py metu_sabanci_cmpe_561_v2/test/turkish_metu_sabanci_test_blind_sample.conll.txt output.txt
+        python3 evaluate_hmm_tagger.py output2.txt metu_sabanci_cmpe_561_v2/test/turkish_metu_sabanci_test_gold_sample.conll.txt
 
