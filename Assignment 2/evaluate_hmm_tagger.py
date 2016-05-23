@@ -112,9 +112,6 @@ for i in range (0, length_):
 
 
 
-
-print(confusion_matrix)
+print('Accuracy: ')
 print(true/(true+false))
-print(true)
-print(false)
-print(true+false)
+
