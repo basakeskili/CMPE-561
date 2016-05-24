@@ -1,0 +1,16 @@
+Det
+Pron
+Punc
+Conj
+END
+Zero
+Dup
+Interj
+Num
+Adj
+START
+Postp
+Noun
+Ques
+Adv
+Verb

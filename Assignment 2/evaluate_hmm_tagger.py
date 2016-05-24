@@ -113,7 +113,10 @@ for i in range (0, length_):
 
 
 
-print(confusion_matrix)
 print("Accuracy")
 print(true/(true+false))
+
+str_list = [[str(a) for a in cm_inner] for cm_inner in confusion_matrix]
+print("\t".join(tagList))
+print("\n".join(["\t".join(cm_inner) for cm_inner in str_list]))
 
