@@ -12,10 +12,14 @@ The data is gathered from: http://www.kemik.yildiz.edu.tr/?id=28.
 
 ## How to run the code
 
-* example run on terminal : python3 division.py raw_texts training test
-* example run on terminal : python3 second_part.py training test
-* example run on terminal : python3 second_part2.py training test
-* example run on terminal : python3 extra_feature.py training test
+* example run on terminal : 
+     python3 division.py raw_texts training test
+* example run on terminal : 
+     python3 second_part.py training test
+* example run on terminal : 
+     python3 second_part2.py training test
+* example run on terminal :
+     python3 extra_feature.py training test
 
 
 # CMPE-561
